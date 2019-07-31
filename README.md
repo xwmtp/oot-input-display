@@ -1,6 +1,11 @@
 # OoT input display
 Ocarina of Time themed input display skin for NintendoSpy, based on the HUD you see in the game. Available both for Nintendo 64 and Gamecube controller.
 
+![Screenshot](https://github.com/xwmtp/oot-input-display/blob/master/docs/gc-input.gif)
+
+The gif shows the Gamecube version of the input display. The discolored patches on the green button are due to gif quality and won't show up on the actualy display.
+
+
 ## Usage
 Please visit the [Releases](https://github.com/xwmtp/oot-input-display/releases) page to download the latest skin.
 
