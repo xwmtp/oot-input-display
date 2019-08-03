@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <skin name="OoT style N64" author="xwillmarktheplace" type="n64">
 
-	<background name="Basic" image="gc-skin-l.png" />
+	<background name="Basic" image="n64-skin.png" />
 
 	<button name="a" 	  image="a.png" x="311" y="60"/>
 	<button name="b" 	  image="b.png" x="225" y="61"/>
