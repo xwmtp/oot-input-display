@@ -18,7 +18,10 @@ I recommend using the input display against a dark background in OBS, since the 
 
 ![settings](https://github.com/xwmtp/oot-input-display/blob/master/docs/obs-settings.png)
 
-The skin shows button inputs by lighting the corresponding buttons up. If you would like the whole display to look a bit brighter/fainter even when buttons aren't pressed, add a ```Color correction``` filter to the source to adjust the brightness or contrast.
+The skin shows button inputs by lighting the corresponding buttons up. If you would like the whole display to look a bit brighter/fainter, add a ```Color correction``` filter to the source to adjust the brightness or contrast, or see the next section.
+
+## Brighter display
+The downloaded skin will also have a brighter version of the background image. To use this one instead, open the ```skin.xml``` file in a text editor and put ```<background name="Basic" image="gc-skin-brighter.png"/>``` (GC skin example). This will make the contrast between buttons being pressed and unpressed smaller though.
 
 ## Requests
 If people are interested in more skin variatons (red b button for the gamecube version of the game style or maybe items on the c-buttons), let me know by making an issue.
