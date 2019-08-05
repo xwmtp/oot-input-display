@@ -3,7 +3,7 @@ Ocarina of Time themed input display skin for NintendoSpy, based on the HUD you 
 
 ![input](https://github.com/xwmtp/oot-input-display/blob/master/docs/gc-input-2.gif)
 
-The gif shows the Gamecube version of the input display, but they are identical apart from L and Z buttons.
+The gif shows the Gamecube version of the input display, but they are identical apart from the L and Z buttons.
 
 ## Download
 Please visit the [Releases](https://github.com/xwmtp/oot-input-display/releases) page to download the latest skin.
