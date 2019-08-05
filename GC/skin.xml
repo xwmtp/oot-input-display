@@ -1,22 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<skin name="OoT style GC" author="xwillmarktheplace" type="gamecube">
+<skin name="OoT style N64" author="xwillmarktheplace" type="n64">
 
-	<background name="Basic" image="gc-skin.png" />
+	<background name="Basic" image="n64-skin.png"/>
 
-	<button name="a" 	  image="a.png" x="311" y="60"/>
-	<button name="b" 	  image="b.png" x="225" y="61"/>
-	<button name="start"  image="start.png" x="163" y="38"/>
-	<button name="y" 	  image="c-left.png" x="388" y="17"/>
+	<button name="a" 	  image="a.png"       x="311" y="60"/>
+	<button name="b" 	  image="b.png"       x="225" y="61"/>
+	<button name="start"  image="start.png"   x="163" y="38"/>
+	<button name="y" 	  image="c-left.png"  x="388" y="17"/>
 	<button name="x" 	  image="c-right.png" x="515" y="20"/>
-	<button name="z" 	  image="c-down.png" x="452" y="64"/>
-	<button name="l" 	  image="l.png" x="2" y="7"/>
-	<button name="r" 	  image="r.png" x="101" y="7"/>
-	<rangebutton name="cstick_x" image="c-left.png" x="388" y="17" from="-1.0" to="-0.4"	/>
-	<rangebutton name="cstick_y" image="c-down.png" x="452" y="64" from="-1.0" to="-0.4"	/>
-	<rangebutton name="cstick_x" image="c-right.png" x="515" y="20" from="0.4" to="1.0"	/>
-	<rangebutton name="cstick_y" image="c-up.png" x="466" y="12" from="0.4" to="1.0"	/>
+	<button name="z" 	  image="c-down.png"  x="452" y="64"/>
+	<button name="cup" 	  image="c-up.png"    x="466" y="12"/>
+	<button name="z" 	  image="z.png"       x="2"   y="7"/>
+	<button name="r" 	  image="r.png"       x="101" y="7"/>
 	
-	<stick xname="lstick_x" yname="lstick_y" image="stick.png"
-           x="50" y="81"  xrange="25" yrange="25"/>
+	<stick xname="stick_x" yname="stick_y" image="stick.png" x="50" y="81" xrange="25" yrange="25"/>
 	
 </skin>
