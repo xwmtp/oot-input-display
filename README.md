@@ -6,14 +6,14 @@ Ocarina of Time themed input display skin for NintendoSpy, based on the HUD you 
 The gif shows the Gamecube version of the input display, but they are identical apart from the L and Z buttons.
 
 ## Download
-Please visit the [Releases](https://github.com/xwmtp/oot-input-display/releases) page to download the latest skin.
+Please visit the [Releases](https://github.com/xwmtp/oot-input-display/releases) page to download the latest skins (the source code doesn't contain the images to make the skin work!).
 
 Unzip the downloaded folder containing the skin.xml and images and put it in the ```skins``` folder in the directory where ```NintendoSpy.exe``` is located.
 
 ## Color settings
 Capture the window in OBS by adding a ```Window Capture``` source.
 
-I recommend using the input display against a dark background in OBS, since the buttons slowly fade to black on the sides. You can add a ```Color key``` filter to the source to get rid of the black background. Make sure to play a bit with the settings. In particular, I recommend a **smoothness** of 45 and keeping the **similarity** at 1.
+I recommend using the input display against a dark background in OBS, since I think it looks best that way. You can add a ```Color key``` filter to the source to get rid of the black background. Make sure to play a bit with the settings. In particular, I recommend a **smoothness** of 45 and keeping the **similarity** at 1.
 
 ![settings](https://github.com/xwmtp/oot-input-display/blob/master/docs/obs-settings.png)
 
