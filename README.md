@@ -24,6 +24,9 @@ The skin shows button inputs by lighting the corresponding buttons up. If you wo
 ## Brighter display
 The downloaded skin will also have a brighter version of the background image. To use this one instead, open the ```skin.xml``` file in a text editor and put ```<background name="Basic" image="gc-skin-brighter.png"/>``` (GC original skin example). This will make the contrast between buttons being pressed and unpressed smaller though.
 
+## Errors/c-stick not working
+If the c-stick doesn't work with the GC controller skin or you get errors when you try to use the GC skins, it might have to do with the decimals dots in the ```rangebutton``` code. Try replacing those dots with commas.
+
 ## Requests
 If people are interested in more skin variatons (red b button for the gamecube version of the game style or maybe items on the c-buttons), let me know by making an issue.
 
