@@ -28,7 +28,7 @@ The downloaded skin will also have a brighter version of the background image. T
 If the c-stick doesn't work with the GC controller skin or you get errors when you try to use the GC skins, it might have to do with the decimals dots in the ```rangebutton``` code. Try replacing those dots with commas.
 
 ## Requests
-If people are interested in more skin variatons (red b button for the gamecube version of the game style or maybe items on the c-buttons), let me know by making an issue.
+If you are interested in variations on this skin, let me know by making an issue and perhaps I could create that!
 
 ## Support
 Skin made by me ([xwillmarktheplace](https://twitch.tv/xwillmarktheplace)). If you like the skin and would like to support me, please take a look at my channel:)
